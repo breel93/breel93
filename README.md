@@ -4,7 +4,7 @@ I am Kola Emiola, I am Android Engineer at [Andela](https://andela.com), I speci
 
 I enjoy talking about the Space Exploration findings :rocket: :milky_way: and Universe Mysteries 🔭 :crystal_ball:
  
- - :nerd_face: I am currently learning more SwiftUI and Flutter
+ - :nerd_face: I am currently learning SwiftUI and Flutter
  - 📫 Find me on twitter [@kola_emi](https://twitter.com/kola_emi) and kolajubril@gmail.com
 
 <!--
