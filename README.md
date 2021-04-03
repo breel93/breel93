@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Kola Emiola, I am Android Engineer at [Andela](https://andela.com), I specialise in Android and iOS Development :iphone:, I am also passionate about Machine Learning and Artificial Intelligence :robot:
+I am Kola Emiola, I am Android Engineer at [Free-now](https://free-now.com), I specialise in Android and iOS Development :iphone:, I am also passionate about Machine Learning and Artificial Intelligence :robot:
 
 I enjoy talking about the Space Exploration findings :rocket: :milky_way: :flying_saucer: and Universe Mysteries 🔭 :crystal_ball:
  
- - :man_technologist: I am currently learning SwiftUI and Flutter
+ - :man_technologist: I am currently learning SwiftUI
  - 📫 Find me on twitter [@kola_emi](https://twitter.com/kola_emi) and kolajubril@gmail.com 
 
 <!--
